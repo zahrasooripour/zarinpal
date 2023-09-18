@@ -1,0 +1,357 @@
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .container {
+        width: auto;
+        margin: 0;
+    }
+    body {
+        margin: 0;
+    }
+    .header .logo {
+        margin-top: 2%;
+    }
+    .bi-list {
+        display: block;
+    }
+    .header-right {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .menu {
+        display: none;
+    }
+    .header {
+        margin-bottom: 0;
+    }
+    .icon-zarin {
+        margin-top: 7px;
+    }
+    .header-blue .new-section {
+        margin-top: 54px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .hidden {
+        display: none;
+    }
+    .center-container {
+        text-align: center;
+        margin: auto;
+    }
+    .page-first .head-text {
+        font-size: 26px;
+        line-height: 45px;
+    }
+    .page-first .text-zarin-2 {
+        font-size: 16px;
+        margin: 0 20px;
+    }
+    .page-tow {
+        display: block;
+    }
+    .page-first .pey {
+        display: flex;
+        justify-content: center;
+    }
+    .page-tow .back-gra {
+        text-align: center;
+        font-size: 14px;
+        width: 80%;
+        margin: auto;
+    }
+    .page-first .header-titel, .page-first .text-top {
+        text-align: center;
+    }
+    .page-first h2 {
+        text-align: center;
+    }
+    .section-pey {
+        text-align: center;
+        font-size: 14px;
+        width: 80%;
+        margin: auto;
+    }
+    .ma-0 {
+        display: block;
+    }
+    .card-section{
+        text-align: center;
+        font-size: 14px;
+        width: 80%;
+        display: block;
+        margin: auto;
+    }
+    .social-imag {
+        width: 450px;
+        margin: 6% 15% 0;
+    }
+    .page-first .card-image {
+        width: 417px;
+        height: 300px;
+        margin: auto;
+    }
+    .payout {
+        text-align: center;
+        font-size: 14px;
+        width: 80%;
+        margin: 30px auto 130px;
+    }
+    .page-first .text {
+        max-width: unset;
+    }
+    .payout-image {
+        display: none;
+    }
+    .page-first .plus-picture {
+        display: none;
+    }
+    .sec-plus {
+        margin: 160px auto 0;
+        text-align: center;
+        font-size: 14px;
+        width: 80%;
+    }
+    .sec-more .more-sta .text-title {
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: 75px;
+    }
+    table, tbody, td, th, tr {
+        display: block;
+        font-size: 19px;
+        border: none;
+    }
+    tr {
+        width: 49%;
+        display: inline-table;
+        min-height: 296px;
+    }
+    .sec-more .more-sta .box {
+        margin: auto;
+        max-width: 80%;
+    }
+    .b-bottom {
+        border-bottom: none;
+    }
+    table td {
+        border-left: none;
+    }
+    .pa-right {
+        padding-right: 0;
+    }
+    .start-box span:first-child {
+        font-size: 25px;
+    }
+    .text-start-2 {
+        font-size: 19px;
+    }
+    .start-box {
+        width: 735px;
+    }
+    .footer {
+        padding-top: 10px;
+    }
+    .footer .container {
+        padding: 0 30px;
+    }
+    .footer .footer-row {
+        background: unset;
+        margin: 0 auto 10px;
+        height: unset;
+    }
+    .footer-row {
+        display: block;
+    }
+    .footer .footer-right {
+        width: 100%;
+    }
+    .footer .text-inf, .footer .phone-number, .footer .support-txt {
+        font-size: 19px;
+    }
+    .footer .footer-left {
+        position: relative;
+        background: #fbf6f1;
+        width: max-content;
+        padding: 0 20px;
+        margin-top: 5px;
+        border-radius: 24px;
+        height: 40px;
+        margin-bottom: 5px;
+    }
+    .display-g {
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 0 5% 0 24%;
+    }
+    .title-social {
+        text-align: inherit;
+    }
+    .footer .social-media .instagram {
+        margin-right: 0;
+    }
+    .footer .social-media .instagram, .footer .social-media .linkedin, .footer .social-media .telegram, .footer .social-media .twitter, .footer .social-media .aparat {
+        width: 30px;
+        height: 30px;
+        margin-top: 7%;
+    }
+    .footer .footer-logo {
+        margin-right: 100%;
+    }
+    .copy {
+        margin-right: 70px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+        margin: 10px;
+    }
+    .container {
+        margin: 2% 2%;
+    }
+    .button-blue {
+        display: none;
+    }
+    .link li {
+        margin: 0 10px;
+    }
+    .header-right {
+        padding: 0;
+    }
+    .icon-zarin {
+        width: 150px;
+        height: 40px;
+    }
+    .header .logo {
+        margin-right: 12px;
+    }
+    .header-blue {
+        padding: 40px 100px 0;
+    }
+    .center-container {
+        text-align: center;
+        margin: auto;
+    }
+    .hidden {
+        display: none;
+    }
+    .page-first .head-text {
+        font-size: 24px;
+    }
+    .page-first .text-zarin-2 {
+        font-size: 17px;
+        max-width: 96%;
+    }
+    .page-tow {
+        display: block;
+        text-align: center;
+    }
+    .page-first .text {
+        max-width: unset;
+    }
+    .text {
+        font-size: 15px;
+        line-height: 35px;
+    }
+    .more {
+        margin-left: 62%;
+    }
+    .ma-0 {
+        display: block;
+    }
+    .page-first .zarin-image {
+        width: 650px;
+        height: 480px;
+        top: 76px;
+        margin: auto;
+    }
+    .card-section {
+        display: block;
+    }
+    .page-first .card-image {
+        width: 402px;
+        height: 274px;
+        margin: auto;
+    }
+    .payout {
+        display: block;
+    }
+    .sec-plus {
+        display: block;
+    }
+    .plus-picture {
+        text-align: center;
+        margin-right: 30%;
+    }
+    .more-2 {
+        margin-left: 54%;
+    }
+    .sec-more .more-sta .box {
+        max-width: 100%;
+    }
+    .b-bottom {
+        border: none;
+    }
+    table td {
+        border-left: none;
+    }
+    .start-box {
+        width: 685px;
+    }
+    .footer .footer-row {
+        background: unset;
+        margin: 0 auto 10px;
+        height: unset;
+    }
+    .footer-row {
+        display: block;
+    }
+    .footer .footer-right {
+        width: 100%;
+    }
+    .footer .text-inf, .footer .phone-number, .footer .support-txt {
+        font-size: 18px;
+    }
+    .footer .footer-left {
+        background: #fbf6f1;
+        width: max-content;
+        padding: 0 20px;
+        margin-top: 5px;
+        border-radius: 24px;
+        margin-bottom: 5px;
+    }
+    .phone-number-2 {
+        position: relative;
+        top: 10px;
+    }
+    .display-f {
+        display: block;
+    }
+    .display-g {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        margin-right: 3%;
+    }
+    .grid-item-1 {
+        margin-left: 56px;
+    }
+    .footer .title-social {
+        text-align: right;
+        font-size: 14px;
+        font-weight: 900;
+    }
+    .footer .social-media {
+        margin-top: 30px;
+        text-align: right;
+    }
+    .footer .social-media .instagram, .footer .social-media .linkedin, .footer .social-media .telegram, .footer .social-media .twitter, .footer .social-media .aparat {
+        width: 18px;
+        height: 18px;
+        padding: 8px;
+
+    }
+    .footer .social-media .link-icon {
+        margin-right: 0;
+    }
+    .copy {
+        margin-right: 70px;
+    }
+}
